@@ -1,0 +1,28 @@
+[
+  {
+    "id": "2",
+    "name": "ravi",
+    "department": "it",
+    "age": "29",
+    "address": {
+      "country": "India",
+      "state": "Punjab",
+      "city": "Chandigarh",
+      "street": "#65",
+      "pincode": "140403"
+    }
+  },
+  {
+    "id": "3",
+    "name": "neeti",
+    "department": "it",
+    "age": "29",
+    "address": {
+      "country": "India",
+      "state": "Punjab",
+      "city": "Chandigarh",
+      "street": "#65",
+      "pincode": "140403"
+    }
+  }
+]
